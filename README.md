@@ -1,6 +1,6 @@
 git ad# Solara's Profile
 
-## Dentist | Data analyst | Aspiring Public Health and Health Informatics Professional
+## Dentist | Data analyst | Aspiring Health Data Scientist
 
 Passionate about improving healthcare outcomes in Sudan through data-driven solutions.
 
